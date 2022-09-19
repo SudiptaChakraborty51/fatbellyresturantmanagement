@@ -1,4 +1,5 @@
-import { extendTheme, ChakraProvider, Box, Text } from '@chakra-ui/react'
+// import { extendTheme, ChakraProvider, Box, Text } from '@chakra-ui/react'
+import { ChakraProvider } from '@chakra-ui/react'
 import {Switch,Route,BrowserRouter} from 'react-router-dom'
 import Menu from './page/Menu';
 
